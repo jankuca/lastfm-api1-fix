@@ -1,0 +1,12 @@
+{
+  "name": "lastfm-api1-fix",
+  "version": "1.0.0",
+  "dependencies": {
+    "lastfm-client": "1.0.x",
+    "lodash": "3.10.x",
+    "xmlrpc": "1.3.x"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
